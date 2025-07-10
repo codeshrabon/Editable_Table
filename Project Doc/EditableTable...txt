@@ -1,0 +1,22 @@
+EditableTable..
+A table -> edit header (column)
+-> add/edit cell value
+-> dynamically add new row and column
+-> export data into CSV and PDF
+
+Tool
+Flutter sdk 
+Android studio
+Emulator 
+Dart lang
+
+* Settings dependencies:::
+path provifrt: where the file will be save 
+permission_handler: ensure the app can write file 
+csv:
+pdf:
+
+* Android permission
+Android Manifest.xml
+cause flutter can only save file with right permission. these are allow storage access on android devices
+
