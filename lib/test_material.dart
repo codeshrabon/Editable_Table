@@ -1,4 +1,4 @@
-import 'package:editable_table_app/main.dart';
+import 'edit_able_table.dart';
 import 'package:flutter/material.dart';
 void main(){
   runApp(

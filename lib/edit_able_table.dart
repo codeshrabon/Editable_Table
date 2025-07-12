@@ -12,8 +12,8 @@ class EditableTable extends StatefulWidget{
 class _EditableTableState extends State<EditableTable> {
   List<List<TextEditingController>> _controllers = [];
   
-  int rowCount = 1;
-  int columnCount = 1;
+  int rowCount = 2;
+  int columnCount = 2;
 
   @override
   void initState(){

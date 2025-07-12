@@ -1,0 +1,13 @@
+1. Row means you the things you like to keep in align
+--> App bar have many things like navigation bar, App title
+search bar many things
+so all of them are align with on ROW
+
+
+2. Column means the things that you keep part by part
+
+3. Stack are based on the web absolute positioning layout model
+--> This Stack widget lets place on top of other in paint order...
+
+4. Container an be decorated with a BoxDecoration, such as
+background border shadow it has also margin padding and constraints
